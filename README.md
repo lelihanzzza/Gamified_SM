@@ -52,8 +52,10 @@ python install_dependencies.py
 
 # Start the server
 python start_all_servers.py
-```
 
+# Setup the database
+Nifty 50 past data to be inserted in a "data.csv" file located in the /backend directory
+``` 
 ## Project Structure
 - `/src` - Frontend React application
 - `/backend` - Python backend services
@@ -67,3 +69,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 # Stock_Verse
+
